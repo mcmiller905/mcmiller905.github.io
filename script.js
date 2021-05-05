@@ -13,5 +13,5 @@ document.getElementById("c-shoot-anchor-link").addEventListener("click", goToSho
 function goToShooter() {
     document.location.hash = "";
     document.location.hash = "#c-shoot-anchor";
-    document.getElementById("c-shoot-anchor-link").innerHTML() += "click";
+    document.getElementById("c-shoot-anchor-link").innerHTML += "click";
 }
