@@ -1,6 +1,6 @@
 ---
-layout: page
+#layout: page
 title: "Spotify Sidecar"
-permalink: /spotify-sidecar/
+permalink: /spotify-sidecar.html/
 ---
 testing
