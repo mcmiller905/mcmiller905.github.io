@@ -3,4 +3,6 @@
 title: "Spotify Sidecar"
 permalink: /spotify-sidecar.html/
 ---
-testing
+
+# Spotify Sidecar
+
