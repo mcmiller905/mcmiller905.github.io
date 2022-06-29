@@ -1,5 +1,3 @@
-# README
-
 Welcome!
 
 Check out my projects below
