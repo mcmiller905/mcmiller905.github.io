@@ -23,3 +23,11 @@ Being a software developer and primarily working in higher-orders levels of prog
 I've used the Advent of Code events as a way to learn and improve my knowlege of Python. I have repositories for 2020 and 2021 up, and I'm working on finishing them both.
 
 [More details here](./aoc.html)
+
+* * *
+
+## Machine Learning Coursework - Coursera
+
+I took Andrew Ng's Machine Learning course on Coursera, this repo contains the coursework for it.
+
+[More details here](./machine-learning.html)
