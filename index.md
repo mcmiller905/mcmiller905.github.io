@@ -8,11 +8,15 @@ Once I started working from home in 2020, I realized that I was always switching
 
 [More details here](./spotify-sidecar.html)
 
+* * *
+
 ## nand2tetris
 
 Being a software developer and primarily working in higher-orders levels of programming, I had always been interested in the fundamentals of how computers work. Following along with the Nand2Tetris project in "The Elements of Computing Systems" was a great way to build a computer from the ground up.
 
 [More details here](./nand2tetris.html)
+
+* * *
 
 ## Advent of Code 2020/2021
 
