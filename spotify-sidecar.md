@@ -4,7 +4,7 @@ title: "Spotify Sidecar"
 permalink: /spotify-sidecar.html/
 ---
 
-[Back to Home](./index.html)
+[Back to Home](../index.html)
 
 # Spotify Sidecar
 
