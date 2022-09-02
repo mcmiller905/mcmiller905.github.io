@@ -2,9 +2,11 @@ Welcome!
 
 Check out my projects below
 
+* * *
+
 ## Spotify Sidecar
 
-Once I started working from home in 2020, I realized that I was always switching back in forth between my remote work machine and my local machine to check what song was playing on my Spotify. This project solved that problem by combining a Node.js webapp connected to Spotify's Web API with a Raspberry Pi 0 and Adafruit 2.8 inch screen. This repo contains the code for the webapp.
+Once I started working from home in 2020, I realized that I was always swiping back in forth between my remote work machine and my local machine to check what song was playing on my Spotify. This project solved that problem by combining a Node.js webapp connected to Spotify's Web API with a Raspberry Pi 0 and Adafruit 2.8 inch screen. This repo contains the code for the webapp.
 
 [More details here](./spotify-sidecar.html)
 
@@ -28,6 +30,6 @@ I've used the Advent of Code events as a way to learn and improve my knowlege of
 
 ## Machine Learning Coursework - Coursera
 
-I took Andrew Ng's Machine Learning course on Coursera, this repo contains the coursework for it.
+I took Andrew Ng's Machine Learning course on Coursera, this repo contains the coursework for it. This was a great way to learn the math behind a lot of popular ML algorithms and get an inside look at the concepts of AI image proccessing and generation.
 
 [More details here](./machine-learning.html)
