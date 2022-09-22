@@ -13,3 +13,5 @@ This project was a great way to both play aound with Spotify's Web API and set u
 Once I started working from home however, I realized that I kept swiping away from my work's remote desktop to my local Spotify session to see what song was playing. It gave me the idea to have a separate screen dedicated to displaying and controlling what I was listening to.
 
 For years I had been thinking of different apps to build using a connection to Spotify, so I was already aware of its API.
+
+[Repo](https://github.com/mcmiller905/spotify-sidecar)

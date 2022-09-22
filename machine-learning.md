@@ -9,3 +9,5 @@ permalink: /machine-learning.html/
 # Andrew Ng's Machine Learning Course on Coursera
 
 After working kind-of adjacent to a lot of Machine Learning algorithms, I thought it would be cool to learn the actual math behind the most popular ones.
+
+[Repo](https://github.com/mcmiller905/machine_learning_coursework)
