@@ -22,7 +22,7 @@ Being a software developer and primarily working in higher-orders levels of prog
 
 ## Advent of Code 2020/2021
 
-I've used the Advent of Code events as a way to learn and improve my knowlege of Python. I have repositories for 2020 and 2021 up, and I'm working on finishing them both.
+I've used the Advent of Code events as a way to learn and improve my knowledge of Python. I have repositories for 2020 and 2021 up, and I'm working on finishing them both.
 
 [More details here](./aoc.html)
 
@@ -30,6 +30,6 @@ I've used the Advent of Code events as a way to learn and improve my knowlege of
 
 ## Machine Learning Coursework - Coursera
 
-I took Andrew Ng's Machine Learning course on Coursera, this repo contains the coursework for it. This was a great way to learn the math behind a lot of popular ML algorithms and get an inside look at the concepts of AI image proccessing and generation.
+I took Andrew Ng's Machine Learning course on Coursera, this repo contains the coursework for it. This was a great way to learn the math behind a lot of popular ML algorithms and get an inside look at the concepts of AI image processing and generation.
 
 [More details here](./machine-learning.html)
