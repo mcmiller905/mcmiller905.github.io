@@ -14,4 +14,6 @@ Once I started working from home however, I realized that I kept swiping away fr
 
 For years I had been thinking of different apps to build using a connection to Spotify, so I was already aware of its API.
 
+![spotify-sidecar](assets/spotify-sidecar-screenshot.png)
+
 [Repo](https://github.com/mcmiller905/spotify-sidecar)
