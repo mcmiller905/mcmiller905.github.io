@@ -20,7 +20,7 @@ Being a software developer and primarily working in higher-orders levels of prog
 
 * * *
 
-## Advent of Code 2020/2021
+## Advent of Code 2020/2021/2022
 
 I've used the Advent of Code events as a way to learn and improve my knowledge of Python. I have repositories for 2020 and 2021 up, and I'm working on finishing them both.
 
